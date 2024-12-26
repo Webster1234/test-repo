@@ -1,1 +1,1 @@
-console.log('Hello, GitHub!');
+Y29uc29sZS5sb2coJ0hlbGxvLCBHaXRIdWIhJyk7
